@@ -1,0 +1,8 @@
+Elastic Search Database Structure
+    Index = Table
+    Document = Row
+
+products_index  <- Product
+"A Great Product"
+
+
